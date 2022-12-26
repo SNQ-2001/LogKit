@@ -18,7 +18,7 @@ print(.debug, "This is an example of an debug log.")
 print(.success, "This is an example of an success log.")
 print(.warning, "This is an example of an warning log.")
 print(.error, "This is an example of an error log.")
-print(.custom("🚀"), "This is an example of an custom log.")
+print(.custom("🚀-ROCKET"), "This is an example of an custom log.")
 ```
 
 <img src=".assets/log.png">
